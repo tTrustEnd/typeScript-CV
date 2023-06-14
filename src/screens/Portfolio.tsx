@@ -6,7 +6,7 @@ import Mobile from "../components/mobile/Mobile";
 import {isMobile} from 'react-device-detect';
 
 const Fortfolio = () => {
-  const [showLeft, setShowLeft] = useState<boolean>(false)
+  const [showLeft, setShowLeft] = useState<boolean>(true)
   useEffect(() => {
 if(isMobile){
   setShowLeft(false)
