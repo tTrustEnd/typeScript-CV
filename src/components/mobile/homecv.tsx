@@ -25,15 +25,13 @@ const HomeCV = () => {
                       <h3>Nguyễn <span>Trường</span></h3>
                     </div>
                     <div className="text_typing">
-                      <p>Mình 
+                      <p>
                         <> </>
                          <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        'là Fresher',
+        'Web Developer',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'đam mê lập trình',
-        1000,
         'rất vui được gặp bạn',
         1000,
       ]}

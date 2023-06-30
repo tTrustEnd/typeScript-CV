@@ -1,5 +1,5 @@
 import imageAbout from '@/assets/img/hero/avatar.jpg'
-import myCv from '@/assets/demo cv.pdf'
+import myCv from '@/assets/CV NGUYEN QUANG TRUONG 2000.pdf'
 import { useEffect, useRef } from 'react'
 import Parallax from 'parallax-js'
 import Im2 from '@/assets/img/about/550x640.jpg'
@@ -46,7 +46,7 @@ const About = () => {
                                 </div>
                                 <div className="rightbox">
                                     <div className="arlo_tm_mini_title_holder">
-                                        <h4>Tôi là Trường  <span className="arlo_tm_animation_text_word"></span></h4>
+                                        <h4>Mình là Trường  <span className="arlo_tm_animation_text_word"></span></h4>
                                     </div>
                                     <div className="definition">
                                         <p>Hi! Tên mình là <strong>Nguyễn Quang Trường</strong>.
@@ -60,7 +60,7 @@ const About = () => {
                                     <div className="about_short_contact_wrap">
                                         <ul>
                                             <li>
-                                                <span><label>Birthday:</label> 25.01.2000</span>
+                                                <span><label>Ngày sinh:</label> 25.01.2000</span>
                                             </li>
                                             <li>
                                                 <span><label>Giới tính:</label> Nam</span>
@@ -69,7 +69,7 @@ const About = () => {
                                                 <span><label>Quê quán:</label> Bắc Ninh, VN</span>
                                             </li>
                                             <li>
-                                                <span><label>Sở thích:</label> Billiards, Music, Chess</span>
+                                                <span><label>Sở thích:</label> Billiards, Music, Chess, game ...</span>
                                             </li>
                                             <li>
                                                 <span><label>Tốt nghiệp:</label> Đại Học Bách Khoa Hà Nội</span>
@@ -78,10 +78,7 @@ const About = () => {
                                                 <span><label>Loại:</label> Giỏi</span>
                                             </li>
                                             <li>
-                                                <span><label>Website:</label> <a href="#">www.mywebsite.com</a></span>
-                                            </li>
-                                            <li>
-                                                <span><label>Mail:</label> <a href="mailto:example@gmail.com">truongnq185728&#64;gmail.com</a></span>
+                                                <span><label>Mail:</label> truongnq185728&#64;gmail.com</span>
                                             </li>
                                             <li>
                                                 <span><label>Git:</label> <a href="https://github.com/tTrustEnd">https://github.com/tTrustEnd</a></span>
