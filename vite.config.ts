@@ -4,7 +4,7 @@ import  path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/cv/',
+  base: '/',
   plugins: [react()],
   server: {
     port: 3000,
