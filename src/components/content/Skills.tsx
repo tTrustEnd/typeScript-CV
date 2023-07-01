@@ -12,6 +12,7 @@ const Skills = () => {
                   <h4>Kỹ năng Frontend</h4>
                 </div>
                 <li>Cắt ghép templace Website</li>
+                <li>Reactjs, Nextjs</li>
                 <li>Framwork/Library: Bootstrap, Antd
                   <li> Redux, Axios </li>
                   <li>Sử dụng nhiều package của Reactjs</li>
@@ -34,12 +35,21 @@ const Skills = () => {
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
                     <div className="arlo_tm_progress" data-value="85" data-color="#000">
-                      <span><span className="label">ReactJS(Typescript)     <ProgressBar
+                      <span><span className="label">ReactJS(Typescript)   <ProgressBar
                         animateOnRender={true}
                         bgColor='black'
                         baseBgColor="#afafae"
                         height="10px"
                         completed={81} />   <span className="experience"></span></span><span className="number"></span></span>
+                      <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
+                    </div>
+                    <div className="arlo_tm_progress" data-value="85" data-color="#000">
+                      <span><span className="label">NestJS(basic)    <ProgressBar
+                        animateOnRender={true}
+                        bgColor='black'
+                        baseBgColor="#afafae"
+                        height="10px"
+                        completed={77} />   <span className="experience"></span></span><span className="number"></span></span>
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
                     <div className="arlo_tm_progress" data-value="75" data-color="#000">
