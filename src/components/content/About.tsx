@@ -11,7 +11,7 @@ const About = () => {
                 relativeInput: true,
                 hoverOnly: true
             })
-
+            ///hihihhi
             parallaxInstance.enable();
 
             return () => parallaxInstance.disable();
