@@ -47,8 +47,8 @@ const Projects = () => {
         backend: 'Nodejs( ExpressJS ), Javascript, Mongoose, Mongo Cloud,Postman',
         members: 1,
         demo: 'https://clone-megagscinemas.truongnguyen.click/',
-        github: "https:/github.com/tTrustEnd/fe-cloneMega",
-        github2: "https:/github.com/tTrustEnd/be-cloneMega",
+        github: "https://github.com/tTrustEnd/fe-cloneMega",
+        github2: "https://github.com/tTrustEnd/be-cloneMega",
 
       }
     }
