@@ -44,12 +44,12 @@ const Skills = () => {
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
                     <div className="arlo_tm_progress" data-value="85" data-color="#000">
-                      <span><span className="label">NestJS(basic)    <ProgressBar
+                      <span><span className="label">Next13<ProgressBar
                         animateOnRender={true}
                         bgColor='black'
                         baseBgColor="#afafae"
                         height="10px"
-                        completed={77} />   <span className="experience"></span></span><span className="number"></span></span>
+                        completed={81} />   <span className="experience"></span></span><span className="number"></span></span>
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
                     <div className="arlo_tm_progress" data-value="75" data-color="#000">
@@ -78,7 +78,7 @@ const Skills = () => {
                 </div>
                 <li>Ngôn ngữ lập trình: Javascript </li>
                 <li>Viết Restful API </li>
-                <li>Framework: ExpressJS</li>
+                <li>Framework: ExpressJS, NestJS</li>
                 <li>Database: MongoDB </li>
                 <li>JWT, mô hình MVC</li>
               </div>
@@ -87,7 +87,20 @@ const Skills = () => {
                   <div className="arlo_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 
                     <div className="arlo_tm_progress" data-value="95" data-color="#000">
-                      <span><span className="label">WExpressJS <span className="experience"><span>
+                      <span><span className="label">ExpressJS <span className="experience"><span>
+                        <ProgressBar
+                          animateOnRender={true}
+                          baseBgColor="#afafae"
+                          bgColor='black'
+                          height="10px"
+                          completed={81} />
+
+                      </span> </span></span><span className="number"></span></span>
+                      <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
+                    </div>
+
+                    <div className="arlo_tm_progress" data-value="95" data-color="#000">
+                      <span><span className="label">NestJS <span className="experience"><span>
                         <ProgressBar
                           animateOnRender={true}
                           baseBgColor="#afafae"
