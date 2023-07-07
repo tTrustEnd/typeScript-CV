@@ -25,7 +25,7 @@ const Projects = () => {
   const showModal = () => {
     setIsModalOpen(true);
   };
-
+  //tétgitádwadawdw
   const handleOk = () => {
     setIsModalOpen(false);
   };
