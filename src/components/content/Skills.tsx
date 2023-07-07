@@ -44,7 +44,7 @@ const Skills = () => {
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
                     <div className="arlo_tm_progress" data-value="85" data-color="#000">
-                      <span><span className="label">NestJS(basic)    <ProgressBar
+                      <span><span className="label">NestJs    <ProgressBar
                         animateOnRender={true}
                         bgColor='black'
                         baseBgColor="#afafae"
