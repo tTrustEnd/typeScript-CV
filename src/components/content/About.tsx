@@ -1,5 +1,5 @@
 import imageAbout from '@/assets/img/hero/avatar.jpg'
-import myCv from '@/assets/Cv-Nguyen Quang Truong.pdf'
+import myCv from '@/assets/CV nguyễn quang trường - CV-TruongNguyen-TopCV.vn (3).pdf'
 import { useEffect, useRef } from 'react'
 import Parallax from 'parallax-js'
 import Im2 from '@/assets/img/about/550x640.jpg'

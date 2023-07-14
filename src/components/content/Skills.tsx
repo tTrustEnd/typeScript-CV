@@ -62,7 +62,7 @@ const Skills = () => {
                           completed={81} /> <span className="experience"></span></span><span className="number"></span></span>
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
-                  
+
                   </div>
                 </div>
               </div>
@@ -76,10 +76,10 @@ const Skills = () => {
                 <div className="arlo_tm_mini_title_holder">
                   <h4>Kỹ năng Backend</h4>
                 </div>
-                <li>Ngôn ngữ lập trình: Javascript </li>
+                <li>Ngôn ngữ lập trình: Javascript, Typescript , Java </li>
                 <li>Viết Restful API </li>
                 <li>Framework: ExpressJS, NestJS</li>
-                <li>Database: MongoDB </li>
+                <li>Database: MongoDB, mySQL </li>
                 <li>JWT, mô hình MVC</li>
               </div>
               <div className="rightbox">
@@ -111,8 +111,8 @@ const Skills = () => {
                       </span> </span></span><span className="number"></span></span>
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
-                 
-                   
+
+
                     <div className="arlo_tm_progress" data-value="95" data-color="#000">
                       <span><span className="label">RestFul API <span className="experience"><span>
                         <ProgressBar
@@ -137,7 +137,7 @@ const Skills = () => {
                       </span> </span></span><span className="number"></span></span>
                       <div className="arlo_tm_bar_bg"><div className="arlo_tm_bar_wrap"><div className="arlo_tm_bar"></div></div></div>
                     </div>
-               
+
                   </div>
                 </div>
               </div>
